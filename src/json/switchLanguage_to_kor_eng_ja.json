@@ -19,7 +19,9 @@
 					"to": [
 						{
 							"select_input_source": {
-								"input_source_id": "com.apple.inputmethod.Korean.2SetKorean"
+								"input_mode_id": "com.apple.inputmethod.Korean.2SetKorean",
+								"input_source_id": "com.apple.inputmethod.Korean.2SetKorean",
+								"language": "ko"
 							}
 						}
 					],
@@ -40,6 +42,7 @@
 					"to": [
 						{
 							"select_input_source": {
+								"input_source_id": "com.apple.keylayout.ABC",
 								"language": "en"
 							}
 						}
@@ -48,7 +51,7 @@
 				},
 				{
 					"from": {
-						"key_code": "3",
+						"key_code": "4",
 						"modifiers": {
 							"mandatory": [
 								"option"
@@ -61,7 +64,9 @@
 					"to": [
 						{
 							"select_input_source": {
-								"input_mode_id": "com.apple.inputmethod.Japanese"
+								"imput_mode_id": "com.apple.inputmethod.Japanese",
+								"input_source_id": "com.apple.inputmethod.Kotoeri.RomajiTyping.Japanese",
+								"language": "ja"
 							}
 						}
 					],
