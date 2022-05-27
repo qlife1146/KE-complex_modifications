@@ -19,7 +19,7 @@
 					"to": [
 						{
 							"select_input_source": {
-								"language": "ko"
+								"input_source_id": "com.apple.inputmethod.Korean.2SetKorean"
 							}
 						}
 					],
